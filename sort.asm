@@ -1,11 +1,11 @@
-TITLE Sorting Random Integers     (Program5.asm)
+TITLE Sorting Random Integers     (sort.asm)
 
-; Author: Andrew Swaim			swaima@oregonstate.edu
-; CS271-400		Program 5      3/4/2018
+; Author: Andrew Swaim
+; Date: 3/4/2018
 ; Description: A program to generate random numbers in the range [100 .. 999]. The program then
 ;	displays the original list, sorts the list, and calculates the median value. Finally, it
-;	display the new sorted list in decending order. The program is constructed using procedures
-;	and parameters are passed by value or by reference on the system stack
+;	displays the new sorted list in decending order. The program is constructed using procedures
+;	and parameters are passed by value or by reference on the system stack.
 
 INCLUDE Irvine32.inc
 
