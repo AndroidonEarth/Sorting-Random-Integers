@@ -3,7 +3,7 @@ TITLE Sorting Random Integers     (sort.asm)
 ; Author: Andrew Swaim
 ; Date: 3/4/2018
 ; Description: A program to generate random numbers in the range [100 .. 999]. The program then
-;	displays the original list, sorts the list, and calculates the median value. Finally, it
+;	displays the original list, sorts the list, and calculates the median value. Finally, the program
 ;	displays the new sorted list in decending order. The program is constructed using procedures
 ;	and parameters are passed by value or by reference on the system stack.
 
